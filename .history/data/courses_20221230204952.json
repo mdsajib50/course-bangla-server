@@ -20,27 +20,24 @@
         "name": "CSS",
        "logo": "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
         "category": "Web Development",
-        "description": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
+        "description"
         },
         {
         "id":"4",
         "name": "Git",
         "logo": "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
-        "category": "Tools",
-        "description": "Git is a distributed version control system: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows."
+        "category": "Tools"
         },
         {
         "id": "5",
         "name": "Tailwind CSS",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png",
-        "category": "Framework",
-        "description": "Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables."
+        "category": "Framework"
         },
         {
         "id": "6",
         "name": "Firebase",
         "logo": "https://w7.pngwing.com/pngs/359/1024/png-transparent-firebase-cloud-messaging-computer-icons-google-cloud-messaging-android-angle-triangle-computer-programming.png",
-        "category": "Tools",
-        "description": "Firebase provides tools to grow your app and business, for startups & global enterprises. Get your app up and running quickly & securely with fully managed backend infrastructure. Build Fast For Any Device. Build Extraordinary Apps. Backed by Google. Customize Your App."
+        "category": "Tools"
         }
         ]

@@ -7,7 +7,7 @@ const courses =  require('./data/courses.json');
 
 app.use(cors())
 app.get('/', (req, res) => {
-  res.send('Server is Running')
+  res.send('Hello World!')
 })
 
 app.get ('/courses', (req, res)=>{
@@ -15,12 +15,7 @@ app.get ('/courses', (req, res)=>{
     res.send(courses)
 })
 
-app.get ('/courses/:id', (req, res)=>{
-  const id = req.params.id;
-  const courseId = courses.find(course =>course.id ===id)
-  
-    res.send(courseId)
-})
+app.get ('/courses/:id', (req))
 app.listen(port, () => {
   console.log(`courses-bangla app listening on port ${port}`)
 })
